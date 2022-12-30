@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import ReduxExample1 from "./ClassComponent";
 
 function App() {
   return (
     <div className="App">
-      Welcome to react learnings
+      <ReduxExample1 />
     </div>
   );
 }
